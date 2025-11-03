@@ -1,6 +1,14 @@
 # Rental Investment Analyzer 🏠📊
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Real Estate](https://img.shields.io/badge/Real%20Estate-Investment-orange.svg)
+
 A comprehensive tool to identify the best zip codes for rental property investment by analyzing population data, rental supply/demand, and market trends using legitimate data sources.
+
+![Demo](https://via.placeholder.com/800x400/4A90E2/ffffff?text=Rental+Investment+Analyzer+Demo)
+*Screenshot: Replace with actual analysis report screenshot*
 
 ## 🎯 Features
 
